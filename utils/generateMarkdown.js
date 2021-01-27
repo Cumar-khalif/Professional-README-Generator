@@ -23,6 +23,12 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
   
+  ## contribution
+  ${data.contribution}
+  
+  ## test
+  ${data.test}
+  
   
   `;
 }

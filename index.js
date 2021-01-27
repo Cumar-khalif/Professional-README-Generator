@@ -19,7 +19,7 @@ const generateMarkdown = require('./utils/generateMarkdown')
 
 // project title
 // description, 
-// installationinstructions, 
+// installation instructions, 
 // usage information, 
 // contribution guidelines, and 
 // test instructions
@@ -45,6 +45,16 @@ const questions = [
         type: 'input',
         name: 'usage',
         message: "How do you use this application?"
+    },
+    {
+        type: 'input',
+        name: 'contribution',
+        message: "who are the people that contributed in this project?"
+    },
+    {
+        type: 'input',
+        name: 'test',
+        message: "How do you what are some instructions this app has this app?"
     }
  
 ];
