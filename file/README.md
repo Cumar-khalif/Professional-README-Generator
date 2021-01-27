@@ -1,13 +1,19 @@
-# README Generator
+# professional readme file
     
   ## Description
-  This generates a README file for the user.
+  its a project that helps me practice how to create a professional read me file
   
   ## Installation
-  npm install
+  you basically visit the live website
   
   ## Usage
-  Answer the prompts and you will get your README.
+  type in the required data
+  
+  ## contribution
+  omar 
+  
+  ## test
+  watch the video
   
   
   
