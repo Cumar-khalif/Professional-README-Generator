@@ -1,19 +1,19 @@
-# professional readme file
+# professional read me file
     
   ## Description
-  its a project that helps me practice how to create a professional read me file
+  a read me file that helps me understand how the required readme files look. its more of a sample.
   
   ## Installation
-  you basically visit the live website
+  you click on the live website and walah.. you are on the live page. seriously though you wouldnt wanna install this . jk kj
   
   ## Usage
-  type in the required data
+  basically you follow the provided descriptions on this page. step one visit my github page and so on so forth.
   
   ## contribution
-  omar 
+  omar and a bunch of you tube videos "programming with mosh"
   
   ## test
-  watch the video
+  have the live link and follow each step
   
   
   

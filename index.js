@@ -54,7 +54,7 @@ const questions = [
     {
         type: 'input',
         name: 'test',
-        message: "what are instructions do this app have?"
+        message: "what instructions do this app have?"
     }
  
 ];
